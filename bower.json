@@ -1,0 +1,26 @@
+{
+  "name": "array-complement",
+  "main": "array-complement.js",
+  "version": "0.0.1",
+  "description": "Returns an array of unique values that is the symmetric difference of the provided arrays.",
+  "authors": [
+    "Miguel Mota <miguelmota2@gmail.com>"
+  ],
+  "description": "Function composition from right to left.",
+  "keywords": [
+    "array",
+    "complement",
+    "symmetric",
+    "difference",
+    "xor",
+    "without"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "license": "MIT"
+}
